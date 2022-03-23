@@ -1,0 +1,11 @@
+*.swp
+/_build
+/doctrees
+__pycache__
+*.pyc
+
+.DS_Store # Mac OS generated files
+sphinxtestenv/ # virtual environment
+docs/build # Build folder
+docs/source/_templates/ #Templates
+
